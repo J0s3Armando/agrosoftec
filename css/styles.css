@@ -1,7 +1,7 @@
 
 header
 {
-    background-image:linear-gradient(to right, rgba(0, 200, 255, 0.301), rgba(146, 254, 157, 0.301)),url('../img/others/image-0.jpg');
+    background-image:linear-gradient(to right, rgba(0, 200, 255, 0.301), rgba(146, 254, 157, 0.301)),url("../img/others/image-0.jpg");
     background-position: center; 
     background-size: cover;
 }
